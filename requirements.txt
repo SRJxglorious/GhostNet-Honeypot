@@ -1,8 +1,0 @@
-fastapi
-uvicorn[standard]
-python-dotenv
-motor
-passlib[argon2]
-python-jose[cryptography]
-pydantic-settings
-pydantic[email]
